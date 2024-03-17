@@ -4,3 +4,4 @@ How can we use them
 Benefit of SOLID
 
 How can we achieve each principle
+How to avoid breaking the principles
